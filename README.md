@@ -110,7 +110,7 @@ Provides reasons behind predictions such as:
 
 You can access the full project report below:
 
-- 📥 [Download PDF Report](report.pdf)
+- 📥 [Download PDF Report](./report.pdf)
 - 📖 [View Report Online](report.pdf)
 
 The report includes:
